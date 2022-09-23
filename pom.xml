@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>ch.pinkypie</groupId>
+    <artifactId>basics</artifactId>
+    <version>1.0-SNAPSHOT</version>
+
+    <developers>
+        <developer>
+            <name>Mishka</name>
+            <organization>pinkypie</organization>
+            <properties>
+                <github>pinkypie</github>
+                <reason>NO</reason>
+            </properties>
+            <roles>
+                <role>student</role>
+                <role>dev</role>
+            </roles>
+        </developer>
+        <developer>
+            <name>Bissbert</name>
+            <url>bissbert.ch</url>
+            <email>dev@bissber.ch</email>
+            <organization>bisslab</organization>
+            <roles>
+                <role>admin</role>
+                <role>dev</role>
+            </roles>
+        </developer>
+    </developers>
+
+    <properties>
+        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>17</maven.compiler.target>
+    </properties>
+    <porn>
+
+    </porn>
+</project>
